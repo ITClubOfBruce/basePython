@@ -11,6 +11,3 @@ zodiac_num = int_year%12
 print("您的生肖是%s"%chinese_zodiac[zodiac_num])
 
 
-'''
-    接收用户输入的年月日，判断用户的生肖和星座
-'''
