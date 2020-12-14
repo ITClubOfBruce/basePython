@@ -19,4 +19,6 @@ print(times)
 print(result)
 
 # re.findall()
-re.findall()
+re.findall(name,data)
+
+# 使用pyecharts绘制柱状图
